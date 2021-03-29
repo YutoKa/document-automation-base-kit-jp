@@ -15,3 +15,5 @@ https://qiita.com/YutoKa/items/091b03244e98ced53c7f
 ・本Kitを動作させたYoutube動画
 https://youtu.be/oD4n8UvnuwE
 
+・本ソリューションにはドキュメント自動化ソリューションを応用してTeamsへの投稿とPower Automate Desktopを行うクラウドフロー「Document Automation Teamsへ投稿しPADキック」が含まれています（以下画像）
+![image](https://user-images.githubusercontent.com/24558303/112776040-8a42ac80-9079-11eb-88bd-26bcfa206bfc.png)
