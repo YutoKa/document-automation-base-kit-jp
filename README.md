@@ -1,0 +1,1 @@
+# document-automation-base-kit-jp
