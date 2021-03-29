@@ -9,7 +9,8 @@ Power Automate、Power Apps、AIBuilder:Form Recognizer(日本語対応済み）
 https://flow.microsoft.com/ja-jp/blog/automate-document-processing-with-power-automate/
 
 
-こちらのソリューションは非公式のもののため、サポートができません。公式のソリューションテンプレートはこちら（英語）をご参照ください。
+こちらのソリューションは川端がカスタマイズした非公式のもののため、サポートが受けられません。
+公式のソリューションテンプレートはこちら（英語）からMicrosoftへ公式テンプレートに対してお問い合わせください。
 https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.powerautomate_documentautomation_basekit
 
 
