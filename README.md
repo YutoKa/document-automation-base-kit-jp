@@ -31,6 +31,7 @@ https://youtu.be/oD4n8UvnuwE
 
 
 
-・本ソリューションにはドキュメント自動化ソリューションを応用してTeamsへの投稿とPower Automate Desktopを行うクラウドフロー「Document Automation Teamsへ投稿しPADキック」が含まれています。
+・本ソリューションにはドキュメント自動化ソリューションを応用してTeamsへの投稿とPower Automate Desktopによるデスクトップ自動化(RPA)を含む
+クラウドフロー「Document Automation Teamsへ投稿しPADキック」が含まれています。
 ![image](https://user-images.githubusercontent.com/24558303/112776664-3df86c00-907b-11eb-9cc5-4c2da74f979c.png)
 
