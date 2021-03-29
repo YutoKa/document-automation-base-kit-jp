@@ -1,10 +1,11 @@
 # document-automation-base-kit-jp
 
-![image](https://user-images.githubusercontent.com/24558303/112777223-a3009180-907c-11eb-8be8-85912ae12a05.png)
+
 
 Power Automate、Power Apps、AIBuilder:Form Recognizer(日本語対応済み）の
 ソリューションテンプレート（日本語版のDocument Automation Base Kit)です。
 
+![image](https://user-images.githubusercontent.com/24558303/112777223-a3009180-907c-11eb-8be8-85912ae12a05.png)
 
 請求書を自動読み取り、ユーザーに読み取り結果を通知できるとともに、OCRでの読み取り結果をPower Apps内で管理、読み取り内容の有効化/承認ができます。
 
